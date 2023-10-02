@@ -22,6 +22,8 @@ VS Code: https://code.visualstudio.com/
 
 The randomizer code came from and tailored to my code by: https://www.programiz.com/javascript/online-compiler/?ref=85f9cf89
 
+I also had several hours of collaboration with Nicole Choiniere-Kroeker from the Bootcamp class 
+
 ## Quick Reference
 
 https://louistaylor.github.io/Pw-gen
